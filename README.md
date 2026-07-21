@@ -1,0 +1,2 @@
+# ChATGPT
+AI-generated project
